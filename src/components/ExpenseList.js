@@ -13,7 +13,7 @@ export const ExpenseList = (props) => (
         })        
         }
     </div>
-)
+) 
 
 const mapStateToProps = (state) => {
     return {
