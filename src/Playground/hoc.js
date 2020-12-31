@@ -8,7 +8,7 @@ const Info = (props)=>(
         {/* {props.secret && <p>secret</p>} */}
     </div>
 );
-
+// comment for testing github 
 const withAdminWarning = (WrappedElement) => {
     return (props) =>(
     <div>
